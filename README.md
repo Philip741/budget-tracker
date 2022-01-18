@@ -18,7 +18,8 @@
 [License](#license)
 
    ## Description
-    Application to track your budget   
+    Application to track your budget. 
+    Application can be utilized as a progressive web app and be used offline.   
    ## Instructions
     Clone the repo
     Use npm i to install all node packages 
@@ -27,6 +28,14 @@
    ## Contribution
    
    ## TechStack
+     HTML5
+     Tailwindscss
+     Javascript
+     IndexedDb
+     Node
+     Express
+     MongoDb
+     Mongoose
    
    ## Questions
    ### Email:

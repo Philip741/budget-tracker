@@ -25,8 +25,10 @@
     Use npm i to install all node packages 
    ## Usage
     Deployed URL: heroku 
+    https://pbrownin-budget-tracker.herokuapp.com
+        Enter Amount of money to add
    ## Contribution
-   
+       You can fork the repository and open a standard pull request to contribute.
    ## TechStack
      HTML5
      Tailwindscss
